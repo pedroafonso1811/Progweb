@@ -1,0 +1,16 @@
+h1 {
+    font: Arial, bold;
+    color: red;
+    text-align: center;
+}
+
+button {
+    color: hotpink;
+    font: Serif;
+}
+
+footer {
+    background-color: blueviolet;
+    font: Serif, bold;
+    text-align: center;
+}
